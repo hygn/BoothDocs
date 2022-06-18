@@ -1,4 +1,4 @@
-# Precausions
+# Precautions
 ## Notice About Write Defaults
 **This Software “DOESN’T” use Write Defaults in order to implement Time Division Multiplexing. MAKE SURE your all animation layer’s idle state has default animations!!**
 ## Notice About Nvidia Graphics card
