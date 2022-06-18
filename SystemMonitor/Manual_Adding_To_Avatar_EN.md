@@ -1,4 +1,6 @@
 # VRC System Monitor Manual
+## -1. READ PRECAUSIONS
+[https://booth.hygn.moe/SystemMonitor/Precausions.html](https://booth.hygn.moe/SystemMonitor/Precausions.html)
 ## 0. Import liltoon shader to your Unity project
 If liltoon shader is not in your Unity project, you must import liltoon shader first.
 ## 1. Import Unitypackage to your Unity project
