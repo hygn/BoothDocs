@@ -25,7 +25,7 @@ Unity 프로젝트에 liltoon 셰이더가 없다면 liltoon셰이더를 먼저 
 * SysStatus_sync2 (bool)
 * SysStatus_sync3 (bool)
 ## 10. FX레이어에 레이어 2개 추가하기
-![](./ManualAssets/addlayer.png)\
+![](./ManualAssets/addlayer.png)
 ## 11. 레이어의 weight를 1로 맞추기
 ![](./ManualAssets/setweight.png)
 ## 12. 동봉된 example controller의 애니메이션 컨트롤러를 복사 후 FX레이어에 붙여넣기

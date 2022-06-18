@@ -25,7 +25,7 @@ If liltoon shader is not in your Unity project, you must import liltoon shader f
 * SysStatus_sync2 (bool)
 * SysStatus_sync3 (bool)
 ## 10. Add two layers into FX layer
-![](./ManualAssets/addlayer.png)\
+![](./ManualAssets/addlayer.png)
 ## 11. Set layer weight to 1
 ![](./ManualAssets/setweight.png)
 ## 12. Copy animation controller from provided example controller and paste into FX layer
