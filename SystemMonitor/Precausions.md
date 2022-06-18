@@ -1,6 +1,6 @@
 # Precausions
 ## Notice About Write Defaults
-**This Software "DOESN'T" use Write Defaults in Unity Animator to implement Time Division Multiplexing. MAKE SURE your all animation layer's idle state has default animations!!**
+**This Software “DOESN’T” use Write Defaults in order to implement Time Division Multiplexing. MAKE SURE your all animation layer’s idle state has default animations!!**
 ## Notice About Nvidia Graphics card
 **This software uses NVSMI to read information from GPU. make sure NVSMI is available on your computer**
 ### How to check NVSMI is available on your computer
