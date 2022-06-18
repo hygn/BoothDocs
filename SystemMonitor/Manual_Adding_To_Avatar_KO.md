@@ -1,6 +1,6 @@
 # VRC System Monitor 설명서
 ## -1. 유의사항 읽기
-[https://booth.hygn.moe/SystemMonitor/Precausions.html](https://booth.hygn.moe/SystemMonitor/Precausions.html)
+[https://booth.hygn.moe/SystemMonitor/Precautions.html](https://booth.hygn.moe/SystemMonitor/Precautions.html)
 ## 0. Unity 프로젝트에 liltoon 셰이더 임포트 하기
 Unity 프로젝트에 liltoon 셰이더가 없다면 liltoon셰이더를 먼저 임포트 해야합니다.
 ## 1. Unity 프로젝트에 Unitypackage 가져오기
