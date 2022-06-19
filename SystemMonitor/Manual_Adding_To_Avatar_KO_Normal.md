@@ -37,7 +37,7 @@ Unity 프로젝트에 liltoon 셰이더가 없다면 liltoon셰이더를 먼저 
 ## 12. 동봉된 example controller의 애니메이션 컨트롤러를 복사 후 FX레이어에 붙여넣기
 ![](./ManualAssets/normalcpulayer.png)
 ## 13. "SysStatusControl" 레이어에도 12의 작업 시행
-*If you want to turn on or off with Expression Menu, it is recommended to make an idle state in the FX layer first and paste the example controller.*\
+*Expression 메뉴를 통해 켜고 끄기를 원한다면 사진처럼 idle상태를 만든 후 붙여넣는것을 추천합니다.*\
 ![](./ManualAssets/secondlayer.png)
 ## 14. Expression 파라미터에 파라미터 추가하기
 ![](./ManualAssets/noramlexpparams.png)
