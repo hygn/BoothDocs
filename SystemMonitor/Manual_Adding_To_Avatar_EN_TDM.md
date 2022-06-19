@@ -39,8 +39,9 @@ If liltoon shader is not in your Unity project, you must import liltoon shader f
 ![](./ManualAssets/secondlayer.png)
 ## 15. Add parameters into Expression Parameter
 ![](./ManualAssets/exparam.png)
-## 16. Start contained VRC_SysStatus_TDD.exe
-*black blank window is normal*
+## 16. Start contained VRC_SysStatus_GUI.exe
+![](./ManualAssets/OSCSoftware.png)\
+*Configure software according to Software Manual*
 ## 17. Reset OSC settings in VRChat after upload and check OSC is working properly
 ![](./ManualAssets/resetosc.png)
 ![](./ManualAssets/OSCdebug.png)

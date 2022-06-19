@@ -41,6 +41,7 @@ Unity 프로젝트에 liltoon 셰이더가 없다면 liltoon셰이더를 먼저 
 ![](./ManualAssets/secondlayer.png)
 ## 14. Expression 파라미터에 파라미터 추가하기
 ![](./ManualAssets/noramlexpparams.png)
-## 16. VRC_SysStatus_Normal.exe 실행하기
-*빈 검은 창이 정상입니다*
+## 16. VRC_SysStatus_GUI.exe 실행하기
+![](./ManualAssets/OSCSoftware.png)\
+*소프트웨어 매뉴얼에 맞춰서 설정을 진행해주세요*
 ## 17. 아바타 업로드 후 OSC를 초기화 하고, OSC가 잘 동작하는지 확인하기
