@@ -1,9 +1,9 @@
 # Software Manual
-## VRC_SysStatus_TDD_NVIDIA
+## VRC_SysStatus_(TDD/Normal)_NVIDIA
 * Only supports NVIDIA GPU
 * Requires NVSMI
 * Just start EXE file to use
-## VRC_SysStatus_TDD_GPUZDependent
+## VRC_SysStatus_(TDD/Normal)_GPUZDependent
 * Supports Both NVIDIA and AMD GPU through GPU-Z
 ### How to start
 * Download and Install GPU-Z from techpowerup
@@ -15,11 +15,11 @@
 *Deleting log file after using is highly recommended for optimal performance*
 
 # 소프트웨어 매뉴얼
-## VRC_SysStatus_TDD_NVIDIA
+## VRC_SysStatus_(TDD/Normal)_NVIDIA
 * NVIDIA GPU 만 지원합니다
 * NVSMI가 필요합니다
 * EXE 파일을 실행 하면 됩니다
-## VRC_SysStatus_TDD_GPUZDependent
+## VRC_SysStatus_(TDD/Normal)_GPUZDependent
 * GPU-Z를 통해서 NVIDIA 및 AMD GPU를 지원합니다
 ### 실행 방법
 * Techpowerup 에서 GPU-Z를 다운로드 후 설치합니다
