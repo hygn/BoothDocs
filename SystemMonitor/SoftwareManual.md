@@ -15,6 +15,9 @@ For TDM Version
 For Normal Version
 ## Lite
 For Lite Version (Not Yet Released)
+## Automatic Config save/load
+This software generates a *SysStatus.cfg.json* file to store the current configuration.\
+When startup, the software automatically reads the config file and restores the previous configuration.
 ## Special notice for GPU-Z Dependent mode
 Download and Install GPU-Z from techpowerup\
 Go to "Sensors" Tab and click Bottom Left "Log To File"\
@@ -40,6 +43,9 @@ TDM 버전 모드 입니다.
 Normal 버전 모드 입니다.
 ## Lite
 Lite 버전 모드 입니다. (출시 예정입니다.)
+## 설정 유지 기능
+이 소프트웨어는 자동으로 *SysStatus.cfg.json* 파일을 생성하고 해당 파일에 현재 설정을 저장합니다.\
+소프트웨어를 시작할 때 설정 파일을 읽고 이전 설정을 자동으로 복원합니다.
 ## GPU-Z Dependent에 대한 추가 유의 사항
 Techpowerup 에서 GPU-Z를 다운로드 후 설치합니다\
 "Sensors" 탭에서 좌 하단의 "Log To File"을 클릭합니다\
