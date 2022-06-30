@@ -7,6 +7,8 @@ If liltoon shader is not in your Unity project, you must import liltoon shader f
 ![](./ManualAssets/importprefab.png)
 ## 2. Drag prefab into avatar root
 ![](./ManualAssets/dragprefab.png)
+## 2-1. (FPS Mode ONLY) Change Material "Overlay"
+![](./ManualAssets/FPSVerAsset.png)
 ## 3. Uncheck "Is Active" in parent constraints
 ![](./ManualAssets/disableparentconstraints.png)
 ## 4. Adjust position of prefab 
@@ -36,6 +38,8 @@ If liltoon shader is not in your Unity project, you must import liltoon shader f
 ![](./ManualAssets/setweight.png)
 ## 12. Copy animation controller from provided example controller and paste into FX layer
 ![](./ManualAssets/normalcpulayer.png)
+## 12-1. (FPS Mode ONLY) Change Blend Tree(GPUPwr)'s last state into FPS255
+![](./ManualAssets/FPSAnimatorNormal.png)
 ## 13. repeat 12 with "SysStatusControl" layer
 *If you want to turn on or off with Expression Menu, it is recommended to make an idle state in the FX layer first and paste the example controller.*\
 ![](./ManualAssets/secondlayer.png)

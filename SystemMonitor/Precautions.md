@@ -4,6 +4,8 @@
 **Closet that uses Write Defaults might not work**
 ## Notice About large parameter usage (Normal version only)
 **Normal version of This Software uses 64bits of parameter, far more than TDD version(11bits)**
+## Notice About GPU Power and FPS
+**GPU Power and FPS cannot be used simultaneously**
 ## Notice About Nvidia Graphics card
 **This software uses NVSMI to read information from GPU. make sure NVSMI is available on your computer**
 ### How to check NVSMI is available on your computer
@@ -18,6 +20,8 @@
 **Write Defaults를 사용하는 옷장이 망가질 수 있습니다**
 ## 많은 파라미터 사용에 대한 유의사항 (Normal 버전만 해당됩니다)
 **Normal 버전 소프트웨어는 TDM버전(11비트)과 달리 64비트의 파라미터를 사용합니다**
+## GPU전력, FPS 양자택일 관련 유의사항
+**GPU전력과 FPS는 동시에 사용할 수 없습니다.**
 ## Nvidia 그래픽카드 관련 유의사항
 **이 소프트웨어는 GPU 로부터 정보를 읽기 위해 NVSMI를 사용합니다. NVSMI가 컴퓨터에 설치 되어 있는지 확인하십시오**
 ### NVSMI 확인방법

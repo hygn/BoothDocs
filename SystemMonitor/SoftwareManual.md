@@ -1,5 +1,5 @@
 # Software Manual
-![](./ManualAssets/OSCSoftware.png)\
+![](./ManualAssets/OSCSoftware2.png)
 ## NVIDIA
 Only supports NVIDIA GPU\
 Requires NVSMI. Please read precautions
@@ -15,6 +15,8 @@ For TDM Version
 For Normal Version
 ## Lite
 For Lite Version (Not Yet Released)
+## FPS
+For FPS mode, please check FPS
 ## Automatic Config save/load
 This software generates a *SysStatus.cfg.json* file to store the current configuration.\
 When startup, the software automatically reads the config file and restores the previous configuration.
@@ -27,7 +29,7 @@ Start EXE file\
 *Deleting log file after using is highly recommended for optimal performance*
 
 # 소프트웨어 매뉴얼
-![](./ManualAssets/OSCSoftware.png)\
+![](./ManualAssets/OSCSoftware2.png)
 ## NVIDIA
 NVIDIA GPU만 지원합니다\
 NVSMI 가 필요합니다 Precautions를 읽어주세요
@@ -43,6 +45,8 @@ TDM 버전 모드 입니다.
 Normal 버전 모드 입니다.
 ## Lite
 Lite 버전 모드 입니다. (출시 예정입니다.)
+## FPS
+FPS를 사용할 경우 FPS를 체크해주세요
 ## 설정 유지 기능
 이 소프트웨어는 자동으로 *SysStatus.cfg.json* 파일을 생성하고 해당 파일에 현재 설정을 저장합니다.\
 소프트웨어를 시작할 때 설정 파일을 읽고 이전 설정을 자동으로 복원합니다.

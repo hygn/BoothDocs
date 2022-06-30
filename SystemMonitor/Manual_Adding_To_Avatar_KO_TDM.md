@@ -7,6 +7,8 @@ Unity 프로젝트에 liltoon 셰이더가 없다면 liltoon셰이더를 먼저 
 ![](./ManualAssets/importprefab.png)
 ## 2. 프리팹을 아바타에 끌어 넣기
 ![](./ManualAssets/dragprefab.png)
+## 2-1. (FPS 를 사용할 경우) "Overlay" Material 의 텍스쳐 바꾸기
+![](./ManualAssets/FPSVerAsset.png)
 ## 3. parent constraints 의 "Is Active" 체크를 해제하기
 ![](./ManualAssets/disableparentconstraints.png)
 ## 4. 프리팹의 위치를 알맞게 조절하기
@@ -32,6 +34,8 @@ Unity 프로젝트에 liltoon 셰이더가 없다면 liltoon셰이더를 먼저 
 ![](./ManualAssets/setweight.png)
 ## 12. 동봉된 example controller의 애니메이션 컨트롤러를 복사 후 FX레이어에 붙여넣기
 ![](./ManualAssets/examplecontrollertofx.png)
+## 12-1. (FPS 를 사용할 경우) Blend Tree(GPUPwr)의 마지막 애니메이션을 FPS255로 바꾸기
+![](./ManualAssets/FPSAnimatorTDM.png)
 ## 13. "TDD_Base" 상태를 기본 상태로 설정하기
 ![](./ManualAssets/setdefault.png)
 ## 14. "SysStatusControl" 레이어에도 12,13의 작업 시행
