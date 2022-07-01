@@ -27,6 +27,8 @@ Make sure the file name is "GPU-Z Sensor Log.txt" and in the same directory with
 Click "Save"\
 Start EXE file\
 *Deleting log file after using is highly recommended for optimal performance*
+## Special notice for PresentMon.dll
+included PresentMon.dll is must be in the same directory with exe file
 
 # 소프트웨어 매뉴얼
 ![](./ManualAssets/OSCSoftware2.png)
@@ -57,3 +59,5 @@ Techpowerup 에서 GPU-Z를 다운로드 후 설치합니다\
 "저장" 을 클릭합니다\
 EXE 파일을 실행합니다\
 *최적의 성능을 위해 사용 후 로그 파일을 삭제하는것을 추천합니다.*
+## PresentMon.dll 관련 유의사항
+포함된 PresentMon.dll은 exe 파일과 같은 디렉터리에 있어야합니다.
